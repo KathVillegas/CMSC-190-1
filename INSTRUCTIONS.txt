@@ -1,0 +1,15 @@
+INSTRUCTIONS:
+
+To Set-up the database to be used for the Attendance Monitoring System
+1. Open a terminal.
+2. Go to the Database directory.
+3. Run the 'setup' file by typing the following
+	- chmod 755 setup
+	- ./setup
+
+To run the Face Recognition application
+1. Go to the CMSC-190-2 directory
+2. Compile the 'AttendanceFaceRecognition.java' file
+	- javac AttendanceFaceRecognition.java
+3. Run the 'AttendanceFaceRecognition.java' file
+	- java AttendanceFaceRecognition

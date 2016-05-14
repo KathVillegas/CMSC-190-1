@@ -1,0 +1,4 @@
+READ ME:
+Images for training data set will be placed here and must be in a folder named after the subject and section of the class:
+
+FORMAT: 'SUBJECT-SECTION'

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+python database.py
+python it1x_table.py
+python it1y_table.py
+python it1z_table.py
+python attendance_table.py
+python subject_table.py
+python insert_it1x.py
+python insert_it1y.py
+python insert_it1z.py
+python insert_subject.py
+sudo service apache2 start
